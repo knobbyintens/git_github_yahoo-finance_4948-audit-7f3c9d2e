@@ -2,11 +2,11 @@
 
 - **Partner ID**: PTR-4101
 - **Status**: active
-- **Tier**: Silver
+- **Tier**: Gold
 - **Region**: EMEA
-- **Renewal Date**: 2027-03-31
+- **Renewal Date**: 2027-11-02
 - **Account Manager**: Priya Raman
-- **Last Reviewed**: 2026-06-15
+- **Last Reviewed**: 2026-11-02
 
 ## Profile
 
@@ -15,3 +15,4 @@ Atlas Freight Partners builds regional freight visibility integrations for North
 ## Review History
 
 - 2026-06-15 — Annual review: continued at Silver; renewal confirmed.
+- 2026-11-02 — Upgrade review: tier changed Silver → Gold; renewal set to 2027-11-02.
