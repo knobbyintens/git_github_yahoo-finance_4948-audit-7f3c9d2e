@@ -2,11 +2,11 @@
 
 - **Partner ID**: PTR-4105
 - **Status**: active
-- **Tier**: Gold
+- **Tier**: Platinum
 - **Region**: EMEA
-- **Renewal Date**: 2027-05-15
+- **Renewal Date**: 2027-11-01
 - **Account Manager**: Priya Raman
-- **Last Reviewed**: 2026-06-30
+- **Last Reviewed**: 2026-11-01
 
 ## Profile
 
@@ -15,3 +15,4 @@ Emberline Systems supplies energy-market data connectors used by Northlight Grid
 ## Review History
 
 - 2026-06-30 — Annual review: continued at Gold; joint roadmap refreshed.
+- 2026-11-01 — Upgrade review: tier changed Gold → Platinum; renewal set to 2027-11-01.
