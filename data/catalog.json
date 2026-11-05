@@ -1,0 +1,49 @@
+{
+  "client": "Marlow & Finch",
+  "launch_quarter": "Q4 2026",
+  "currency": "GBP",
+  "products": [
+    {
+      "sku": "MF-101",
+      "name": "Ashcombe Oak Sideboard",
+      "category": "Storage",
+      "price": 480.0,
+      "badge": "premium"
+    },
+    {
+      "sku": "MF-103",
+      "name": "Copper Kettle Lamp",
+      "category": "Lighting",
+      "price": 210.0,
+      "badge": "premium"
+    },
+    {
+      "sku": "MF-110",
+      "name": "Kestrel Accent Stool",
+      "category": "Seating",
+      "price": 120.0,
+      "badge": "standard"
+    },
+    {
+      "sku": "MF-102",
+      "name": "Brindle Wool Throw",
+      "category": "Textiles",
+      "price": 85.0,
+      "badge": "standard"
+    },
+    {
+      "sku": "MF-108",
+      "name": "Heather Table Runner",
+      "category": "Textiles",
+      "price": 52.0,
+      "badge": "standard"
+    },
+    {
+      "sku": "MF-104",
+      "name": "Dusk Linen Cushion",
+      "category": "Textiles",
+      "price": 45.0,
+      "badge": "value"
+    }
+  ]
+}
