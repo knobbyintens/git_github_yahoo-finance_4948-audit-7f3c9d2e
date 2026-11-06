@@ -1,11 +1,8 @@
 # Daniel Okafor
 
-**Role:** Ph.D. candidate, Cobalt Ridge Behavioral Laboratory
-
-**Research focus:** Echo-Graph and longitudinal measurement
-
-**Contact:** daniel.okafor@cobaltridge.io
-
+**Role:** PhD candidate
+**Team:** CRB Lab
+**Primary product:** SignalCanvas
 **Joined:** 2023-09
 
-Daniel designs long-running studies for the Signal-Canvas product line and coordinates the field panel.
+Daniel designs longitudinal studies for the SignalCanvas measurement suite.
