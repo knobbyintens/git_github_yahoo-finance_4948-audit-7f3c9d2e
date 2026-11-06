@@ -1,0 +1,19 @@
+{
+  "audit_version": "release-2.0",
+  "escalations": [
+    {
+      "finding_id": "FN-2203",
+      "path": "src/portfolio_engine.py",
+      "line": 156,
+      "ticker": "META",
+      "priority": "high"
+    },
+    {
+      "finding_id": "FN-2205",
+      "path": "src/portfolio_engine.py",
+      "line": 194,
+      "ticker": "ORCL",
+      "priority": "high"
+    }
+  ]
+}
