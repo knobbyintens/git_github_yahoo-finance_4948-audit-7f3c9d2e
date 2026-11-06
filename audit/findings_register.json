@@ -1,0 +1,88 @@
+{
+  "project": "meridian-execution-engine",
+  "baseline_revision": "main",
+  "generated_by": "compliance-audit-bot",
+  "findings": [
+    {
+      "finding_id": "FN-2201",
+      "path": "src/portfolio_engine.py",
+      "summary": "Exposure calculation ignores gross versus net notional",
+      "ticker": "NVDA",
+      "owner": "R. Okafor",
+      "severity": "medium",
+      "baseline_line": 126
+    },
+    {
+      "finding_id": "FN-2202",
+      "path": "src/portfolio_engine.py",
+      "summary": "Settlement calendar input is not validated before use",
+      "ticker": "PFE",
+      "owner": "D. Halvorsen",
+      "severity": "high",
+      "baseline_line": 142
+    },
+    {
+      "finding_id": "FN-2203",
+      "path": "src/portfolio_engine.py",
+      "summary": "Rebalance loop can emit duplicate child orders",
+      "ticker": "META",
+      "owner": "S. Ibarra",
+      "severity": "high",
+      "baseline_line": 160
+    },
+    {
+      "finding_id": "FN-2204",
+      "path": "src/portfolio_engine.py",
+      "summary": "Target quantity helper does not cap book notional",
+      "ticker": "MRK",
+      "owner": "T. Lindqvist",
+      "severity": "medium",
+      "baseline_line": 168
+    },
+    {
+      "finding_id": "FN-2205",
+      "path": "src/portfolio_engine.py",
+      "summary": "Settlement window ignores venue holiday calendars",
+      "ticker": "ORCL",
+      "owner": "A. Petrov",
+      "severity": "high",
+      "baseline_line": 186
+    },
+    {
+      "finding_id": "FN-2206",
+      "path": "src/portfolio_engine.py",
+      "summary": "Risk limit check uses a stale account snapshot",
+      "ticker": "AMD",
+      "owner": "M. Chen",
+      "severity": "medium",
+      "baseline_line": 208
+    },
+    {
+      "finding_id": "FN-2207",
+      "path": "src/portfolio_engine.py",
+      "summary": "Order generation allows zero-quantity child orders",
+      "ticker": "TSM",
+      "owner": "J. Whitaker",
+      "severity": "low",
+      "baseline_line": 243
+    },
+    {
+      "finding_id": "FN-2208",
+      "path": "src/portfolio_engine.py",
+      "summary": "Fill reconciliation drops partial fills from the blotter",
+      "ticker": "KO",
+      "owner": "L. Moreau",
+      "severity": "high",
+      "baseline_line": 263
+    },
+    {
+      "finding_id": "FN-2209",
+      "path": "src/portfolio_engine.py",
+      "summary": "Nightly reconciliation report omits venue rounding residue",
+      "ticker": "CRM",
+      "owner": "K. Suzuki",
+      "severity": "medium",
+      "baseline_line": 287
+    }
+  ]
+}
